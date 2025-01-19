@@ -1,5 +1,5 @@
 # Cobalt
-There is a better alternative for other platforms but it is only for private servers available at [Sinum](https://github.com/projectnovafn/Sinum)
+universal ssl bypass for fortnite + console unlocker
 # Private server for latest does not work because of EOS (I believe added in S22 or something?)
 SSL Bypass for Fortnite.<br>
 Hopefully when I have a lot of time I'll make a new SSL Bypass with a BUNCH of features.
@@ -7,6 +7,9 @@ Hopefully when I have a lot of time I'll make a new SSL Bypass with a BUNCH of f
 # How to change the port or IP
 
 Go to `settings.h` and change URL_HOST and URL_PORT to what you want.
+
+# how to disable console unlocked 
+Go to `settings.h` and change bool enable console to 0 instead of 1.
 
 # How to enable hybrid
 
